@@ -28,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [1732-find-the-highest-altitude](https://github.com/AnujUttam/DSA-Java/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/AnujUttam/DSA-Java/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AnujUttam/DSA-Java/tree/master/3904-smallest-stable-index-ii) |
+## String
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/AnujUttam/DSA-Java/tree/master/0115-distinct-subsequences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/AnujUttam/DSA-Java/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
