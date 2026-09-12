@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1664-ways-to-make-a-fair-array](https://github.com/AnujUttam/DSA-Java/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/AnujUttam/DSA-Java/tree/master/1732-find-the-highest-altitude) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/AnujUttam/DSA-Java/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnujUttam/DSA-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnujUttam/DSA-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AnujUttam/DSA-Java/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/AnujUttam/DSA-Java/tree/master/3903-smallest-stable-index-i) |
@@ -43,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0115-distinct-subsequences](https://github.com/AnujUttam/DSA-Java/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/AnujUttam/DSA-Java/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnujUttam/DSA-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
 | ------- |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/AnujUttam/DSA-Java/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnujUttam/DSA-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
 |  |
 | ------- |
@@ -55,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnujUttam/DSA-Java/tree/master/3483-unique-3-digit-even-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnujUttam/DSA-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
