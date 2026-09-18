@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0041-first-missing-positive](https://github.com/AnujUttam/DSA-Java/tree/master/0041-first-missing-positive) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnujUttam/DSA-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnujUttam/DSA-Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1590-make-sum-divisible-by-p](https://github.com/AnujUttam/DSA-Java/tree/master/1590-make-sum-divisible-by-p) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnujUttam/DSA-Java/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0115-distinct-subsequences](https://github.com/AnujUttam/DSA-Java/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/AnujUttam/DSA-Java/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnujUttam/DSA-Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnujUttam/DSA-Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/AnujUttam/DSA-Java/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnujUttam/DSA-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
@@ -87,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnujUttam/DSA-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Greedy
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnujUttam/DSA-Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->
