@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0412-fizz-buzz](https://github.com/AnujUttam/DSA-Java/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/AnujUttam/DSA-Java/tree/master/0836-rectangle-overlap) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AnujUttam/DSA-Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AnujUttam/DSA-Java/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AnujUttam/DSA-Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/AnujUttam/DSA-Java/tree/master/3524-find-x-value-of-array-i) |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/AnujUttam/DSA-Java/tree/master/3525-find-x-value-of-array-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AnujUttam/DSA-Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
