@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/AnujUttam/DSA-Java/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/AnujUttam/DSA-Java/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AnujUttam/DSA-Java/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AnujUttam/DSA-Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/AnujUttam/DSA-Java/tree/master/0115-distinct-subsequences) |
+| [0412-fizz-buzz](https://github.com/AnujUttam/DSA-Java/tree/master/0412-fizz-buzz) |
 | [0940-distinct-subsequences-ii](https://github.com/AnujUttam/DSA-Java/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnujUttam/DSA-Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/AnujUttam/DSA-Java/tree/master/3498-reverse-degree-of-a-string) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/AnujUttam/DSA-Java/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/AnujUttam/DSA-Java/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/AnujUttam/DSA-Java/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
