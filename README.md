@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1664-ways-to-make-a-fair-array](https://github.com/AnujUttam/DSA-Java/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/AnujUttam/DSA-Java/tree/master/1732-find-the-highest-altitude) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/AnujUttam/DSA-Java/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [1929-concatenation-of-array](https://github.com/AnujUttam/DSA-Java/tree/master/1929-concatenation-of-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnujUttam/DSA-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnujUttam/DSA-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/AnujUttam/DSA-Java/tree/master/3524-find-x-value-of-array-i) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/AnujUttam/DSA-Java/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/AnujUttam/DSA-Java/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
