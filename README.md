@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/AnujUttam/DSA-Java/tree/master/0041-first-missing-positive) |
+| [1096-brace-expansion-ii](https://github.com/AnujUttam/DSA-Java/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnujUttam/DSA-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnujUttam/DSA-Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1590-make-sum-divisible-by-p](https://github.com/AnujUttam/DSA-Java/tree/master/1590-make-sum-divisible-by-p) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/AnujUttam/DSA-Java/tree/master/0115-distinct-subsequences) |
 | [0412-fizz-buzz](https://github.com/AnujUttam/DSA-Java/tree/master/0412-fizz-buzz) |
 | [0940-distinct-subsequences-ii](https://github.com/AnujUttam/DSA-Java/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/AnujUttam/DSA-Java/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnujUttam/DSA-Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/AnujUttam/DSA-Java/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/AnujUttam/DSA-Java/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnujUttam/DSA-Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/AnujUttam/DSA-Java/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnujUttam/DSA-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -129,4 +132,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AnujUttam/DSA-Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/AnujUttam/DSA-Java/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/AnujUttam/DSA-Java/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/AnujUttam/DSA-Java/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
