@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0041-first-missing-positive](https://github.com/AnujUttam/DSA-Java/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/AnujUttam/DSA-Java/tree/master/0049-group-anagrams) |
+| [0283-move-zeroes](https://github.com/AnujUttam/DSA-Java/tree/master/0283-move-zeroes) |
 | [0835-image-overlap](https://github.com/AnujUttam/DSA-Java/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnujUttam/DSA-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/AnujUttam/DSA-Java/tree/master/1480-running-sum-of-1d-array) |
@@ -208,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnujUttam/DSA-Java/tree/master/2333-minimum-sum-of-squared-difference) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/AnujUttam/DSA-Java/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
