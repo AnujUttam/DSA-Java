@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AnujUttam/DSA-Java/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/AnujUttam/DSA-Java/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/AnujUttam/DSA-Java/tree/master/0049-group-anagrams) |
 | [0283-move-zeroes](https://github.com/AnujUttam/DSA-Java/tree/master/0283-move-zeroes) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AnujUttam/DSA-Java/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/AnujUttam/DSA-Java/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/AnujUttam/DSA-Java/tree/master/0242-valid-anagram) |
 | [1096-brace-expansion-ii](https://github.com/AnujUttam/DSA-Java/tree/master/1096-brace-expansion-ii) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AnujUttam/DSA-Java/tree/master/0015-3sum) |
 | [0142-linked-list-cycle-ii](https://github.com/AnujUttam/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/AnujUttam/DSA-Java/tree/master/0283-move-zeroes) |
 ## Linked List
