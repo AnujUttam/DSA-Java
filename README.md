@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0041-first-missing-positive](https://github.com/AnujUttam/DSA-Java/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/AnujUttam/DSA-Java/tree/master/0049-group-anagrams) |
+| [0142-linked-list-cycle-ii](https://github.com/AnujUttam/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/AnujUttam/DSA-Java/tree/master/0242-valid-anagram) |
 | [1096-brace-expansion-ii](https://github.com/AnujUttam/DSA-Java/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnujUttam/DSA-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -218,5 +219,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/AnujUttam/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/AnujUttam/DSA-Java/tree/master/0283-move-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/AnujUttam/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/AnujUttam/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
