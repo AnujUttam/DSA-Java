@@ -231,12 +231,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnujUttam/DSA-Java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AnujUttam/DSA-Java/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AnujUttam/DSA-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnujUttam/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/AnujUttam/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/AnujUttam/DSA-Java/tree/master/0283-move-zeroes) |
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AnujUttam/DSA-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/AnujUttam/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
