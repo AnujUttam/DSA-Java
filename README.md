@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnujUttam/DSA-Java/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AnujUttam/DSA-Java/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnujUttam/DSA-Java/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnujUttam/DSA-Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnujUttam/DSA-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnujUttam/DSA-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/AnujUttam/DSA-Java/tree/master/3524-find-x-value-of-array-i) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1590-make-sum-divisible-by-p](https://github.com/AnujUttam/DSA-Java/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnujUttam/DSA-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnujUttam/DSA-Java/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnujUttam/DSA-Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnujUttam/DSA-Java/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnujUttam/DSA-Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/AnujUttam/DSA-Java/tree/master/3525-find-x-value-of-array-ii) |
 ## Bit Manipulation
 |  |
@@ -255,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AnujUttam/DSA-Java/tree/master/0075-sort-colors) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnujUttam/DSA-Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
