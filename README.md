@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/AnujUttam/DSA-Java/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AnujUttam/DSA-Java/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/AnujUttam/DSA-Java/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/AnujUttam/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0835-image-overlap](https://github.com/AnujUttam/DSA-Java/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnujUttam/DSA-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/AnujUttam/DSA-Java/tree/master/1480-running-sum-of-1d-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/AnujUttam/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnujUttam/DSA-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnujUttam/DSA-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnujUttam/DSA-Java/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/AnujUttam/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AnujUttam/DSA-Java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnujUttam/DSA-Java/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Backtracking
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/AnujUttam/DSA-Java/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/AnujUttam/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/AnujUttam/DSA-Java/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/AnujUttam/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
 | ------- |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/AnujUttam/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/AnujUttam/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -262,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnujUttam/DSA-Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/AnujUttam/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
