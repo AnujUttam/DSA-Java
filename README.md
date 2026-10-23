@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AnujUttam/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/AnujUttam/DSA-Java/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/AnujUttam/DSA-Java/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/AnujUttam/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AnujUttam/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/AnujUttam/DSA-Java/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AnujUttam/DSA-Java/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AnujUttam/DSA-Java/tree/master/0032-longest-valid-parentheses) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AnujUttam/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/AnujUttam/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnujUttam/DSA-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnujUttam/DSA-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
