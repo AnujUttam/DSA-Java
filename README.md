@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/AnujUttam/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/AnujUttam/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0835-image-overlap](https://github.com/AnujUttam/DSA-Java/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/AnujUttam/DSA-Java/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnujUttam/DSA-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/AnujUttam/DSA-Java/tree/master/1480-running-sum-of-1d-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnujUttam/DSA-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/AnujUttam/DSA-Java/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/AnujUttam/DSA-Java/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AnujUttam/DSA-Java/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Geometry
 |  |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/AnujUttam/DSA-Java/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/AnujUttam/DSA-Java/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/AnujUttam/DSA-Java/tree/master/1254-number-of-closed-islands) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/AnujUttam/DSA-Java/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnujUttam/DSA-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -325,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnujUttam/DSA-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/AnujUttam/DSA-Java/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
