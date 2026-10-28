@@ -342,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/AnujUttam/DSA-Java/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnujUttam/DSA-Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/AnujUttam/DSA-Java/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
