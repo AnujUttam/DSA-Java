@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/AnujUttam/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0835-image-overlap](https://github.com/AnujUttam/DSA-Java/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/AnujUttam/DSA-Java/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/AnujUttam/DSA-Java/tree/master/1267-count-servers-that-communicate) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnujUttam/DSA-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/AnujUttam/DSA-Java/tree/master/1480-running-sum-of-1d-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnujUttam/DSA-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0835-image-overlap](https://github.com/AnujUttam/DSA-Java/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/AnujUttam/DSA-Java/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/AnujUttam/DSA-Java/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AnujUttam/DSA-Java/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnujUttam/DSA-Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AnujUttam/DSA-Java/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0301-remove-invalid-parentheses](https://github.com/AnujUttam/DSA-Java/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/AnujUttam/DSA-Java/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/AnujUttam/DSA-Java/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/AnujUttam/DSA-Java/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnujUttam/DSA-Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bracket Sequences
 |  |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/AnujUttam/DSA-Java/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/AnujUttam/DSA-Java/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnujUttam/DSA-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnujUttam/DSA-Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/AnujUttam/DSA-Java/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/AnujUttam/DSA-Java/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnujUttam/DSA-Java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/AnujUttam/DSA-Java/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Database
@@ -373,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AnujUttam/DSA-Java/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/AnujUttam/DSA-Java/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
