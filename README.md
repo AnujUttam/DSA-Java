@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1480-running-sum-of-1d-array](https://github.com/AnujUttam/DSA-Java/tree/master/1480-running-sum-of-1d-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnujUttam/DSA-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1590-make-sum-divisible-by-p](https://github.com/AnujUttam/DSA-Java/tree/master/1590-make-sum-divisible-by-p) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AnujUttam/DSA-Java/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnujUttam/DSA-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1664-ways-to-make-a-fair-array](https://github.com/AnujUttam/DSA-Java/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/AnujUttam/DSA-Java/tree/master/1732-find-the-highest-altitude) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/AnujUttam/DSA-Java/tree/master/0412-fizz-buzz) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AnujUttam/DSA-Java/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1929-concatenation-of-array](https://github.com/AnujUttam/DSA-Java/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/AnujUttam/DSA-Java/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AnujUttam/DSA-Java/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnujUttam/DSA-Java/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AnujUttam/DSA-Java/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Two Pointers
@@ -382,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/AnujUttam/DSA-Java/tree/master/1267-count-servers-that-communicate) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AnujUttam/DSA-Java/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
