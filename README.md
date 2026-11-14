@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnujUttam/DSA-Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AnujUttam/DSA-Java/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AnujUttam/DSA-Java/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AnujUttam/DSA-Java/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnujUttam/DSA-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AnujUttam/DSA-Java/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnujUttam/DSA-Java/tree/master/3483-unique-3-digit-even-numbers) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnujUttam/DSA-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1664-ways-to-make-a-fair-array](https://github.com/AnujUttam/DSA-Java/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/AnujUttam/DSA-Java/tree/master/1732-find-the-highest-altitude) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AnujUttam/DSA-Java/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/AnujUttam/DSA-Java/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AnujUttam/DSA-Java/tree/master/3904-smallest-stable-index-ii) |
 ## String
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/AnujUttam/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnujUttam/DSA-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnujUttam/DSA-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AnujUttam/DSA-Java/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AnujUttam/DSA-Java/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Greedy
 |  |
