@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnujUttam/DSA-Java/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnujUttam/DSA-Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AnujUttam/DSA-Java/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AnujUttam/DSA-Java/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AnujUttam/DSA-Java/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AnujUttam/DSA-Java/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnujUttam/DSA-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnujUttam/DSA-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AnujUttam/DSA-Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AnujUttam/DSA-Java/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AnujUttam/DSA-Java/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnujUttam/DSA-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/AnujUttam/DSA-Java/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/AnujUttam/DSA-Java/tree/master/3693-climbing-stairs-ii) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/AnujUttam/DSA-Java/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnujUttam/DSA-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnujUttam/DSA-Java/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AnujUttam/DSA-Java/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnujUttam/DSA-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnujUttam/DSA-Java/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/AnujUttam/DSA-Java/tree/master/3886-sum-of-sortable-integers) |
