@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnujUttam/DSA-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AnujUttam/DSA-Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/AnujUttam/DSA-Java/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/AnujUttam/DSA-Java/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/AnujUttam/DSA-Java/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/AnujUttam/DSA-Java/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/AnujUttam/DSA-Java/tree/master/3525-find-x-value-of-array-ii) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/AnujUttam/DSA-Java/tree/master/0412-fizz-buzz) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AnujUttam/DSA-Java/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1929-concatenation-of-array](https://github.com/AnujUttam/DSA-Java/tree/master/1929-concatenation-of-array) |
+| [3360-stone-removal-game](https://github.com/AnujUttam/DSA-Java/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/AnujUttam/DSA-Java/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
